@@ -1,0 +1,2 @@
+# Python_Progranmming_Basics_EL_Internship
+Internship assignment codes
